@@ -22,6 +22,16 @@
 		"default_title": "Google Tasks",
 		"default_panel": "sidebar.html"
 	},
+
+	"commands": {
+		"_execute_sidebar_action": {
+			"suggested_key": {
+				"default": "Ctrl+Alt+T"
+			},
+		"description": "Open the sidebar for Mini Google Tasks"
+		}
+	},
+
 	"browser_action": {
 		"default_popup": "popup.html",
 		"default_title": "Open Google Tasks",
